@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "name": "Sanduicheira",
+    "price": 128.1,
+    "description": "Uma sanduicheira prática para lanches rápidos e deliciosos a qualquer hora.",
+    "storeLink": "https://www.amazon.com.br/dp/B0BSP3D9ZS?ref=cm_sw_r_cso_cp_apin_dp_QX1AQXPX4EBETQ4H94D9&ref_=cm_sw_r_cso_cp_apin_dp_QX1AQXPX4EBETQ4H94D9&social_share=cm_sw_r_cso_cp_apin_dp_QX1AQXPX4EBETQ4H94D9&th=1",
+    "image": "https://m.media-amazon.com/images/I/413F1Icml2L._AC_SL1000_.jpg",
+    "isSoldOut": false
+  },
+  {
+    "id": 2,
+    "name": "Chaleira Elétrica",
+    "price": 133.44,
+    "description": "Água quente em minutos com praticidade e segurança para nosso dia a dia.",
+    "storeLink": "https://a.co/d/ibJnHMO",
+    "image": "https://m.media-amazon.com/images/I/5157j9NnlaL._AC_SX679_.jpg",
+    "isSoldOut": false
+  },
+  {
+    "id": 3,
+    "name": "Vassoura, Rodo e Pá",
+    "price": 72.5,
+    "description": "Conjunto essencial para a manutenção e limpeza da nossa nova casa.",
+    "storeLink": "https://www.amazon.com.br/Limpeza-Vassoura-Multiuso-Silicone-Articulada/dp/B0FFBFK6D5/ref=sr_1_6",
+    "image": "https://m.media-amazon.com/images/I/51cL9rEBPVL._AC_SL1200_.jpg",
+    "isSoldOut": false
+  },
+  {
+    "id": 4,
+    "name": "Kit Xícaras de Vidro",
+    "price": 128.37,
+    "description": "Elegância e modernidade para servir aquele cafézinho especial para as visitas.",
+    "storeLink": "https://www.mercadolivre.com.br/up/MLBU1984532907?pdp_filters=item_id:MLB4392269534",
+    "image": "https://http2.mlstatic.com/D_Q_NP_712915-MLB77521141191_072024-F.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 5,
+    "name": "Conjunto 6 Copos Vidro",
+    "price": 34.9,
+    "description": "6 Copos de Vidro Bellagio 450ml",
+    "storeLink": "https://shopee.com.br/product/333150764/16283034871?d_id=4995f&uls_trackid=54i6q2e402ku&utm_content=u7RgrUCKDchThMqsgcjtGrwrvaj",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rcf2-ltmcyx3sdx8u9d.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 6,
+    "name": "Jogo 6 Taças para Vinho Cristal",
+    "price": 96.9,
+    "description": "Para brindarmos aos nossos melhores momentos com taças de alta qualidade.",
+    "storeLink": "https://www.magazinevoce.com.br/magazineescorrega/jogo-de-tacas-para-vinho-cristal-450ml-6-pecas-haus-sense-bohemia/p/142270100/ud/tavi/?&seller_id=magazineluiza&utm_source=google&utm_medium=cpc&utm_term=83038&utm_campaign=google_eco_per_ven_pla_all_sor_1p_all-products_2&utm_content=&partner_id=83038&gclsrc=aw.ds&gad_source=1&gad_campaignid=23311390556&gbraid=0AAAAAD4zZmSO51EGIiKawGfayOYpCFiFd&gclid=Cj0KCQiA6sjKBhCSARIsAJvYcpOK6kzzSSrBjNJoyDbXeqomQDqMHKFYTU08f6j-_dz6p7G8AKHXNHQaAmWCEALw_wcB",
+    "image": "https://a-static.mlcdn.com.br/800x560/jogo-de-tacas-para-vinho-cristal-450ml-6-pecas-haus-sense-bohemia/magazineluiza/142270100/4442e16578477f142ee70d7b7807546f.jpg",
+    "isSoldOut": false
+  },
+  {
+    "id": 7,
+    "name": "Jogo de Taças de Gin 820ml",
+    "price": 60.04,
+    "description": "Taças amplas e sofisticadas para preparar os melhores drinks.",
+    "storeLink": "https://www.magazinevoce.com.br/magazineescorrega/jogo-de-tacas-gin-820ml-4-pecas-haus-concept-sense/p/237990900/ud/tdgi/",
+    "image": "https://a-static.mlcdn.com.br/1500x1500/jogo-de-tacas-gin-820ml-4-pecas-haus-concept-sense/magazineluiza/237990900/6f2816f48f5b1dd0fb1c3e3cc9826439.jpg",
+    "isSoldOut": false
+  },
+  {
+    "id": 8,
+    "name": "Kit 11 Utensílios De Silicone",
+    "price": 55.6,
+    "description": "Utensílios duráveis e práticos para facilitar nossas aventuras na cozinha.",
+    "storeLink": "https://shopee.com.br/Kit-11-Utens%C3%ADlios-De-Silicone-Esp%C3%A1tula-Colher-Escumadeira-Concha-Cozinha-i.711189782.23197667807?extraParams=%7B%22display_model_id%22%3A238770605471%2C%22model_selection_logic%22%3A3%7D&sp_atk=78d01a87-90c9-4251-a2c2-12487ce3b159&xptdk=78d01a87-90c9-4251-a2c2-12487ce3b159&is_from_login=true",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rdya-lxrkhpd5f2hya9@resize_w164_nl.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 9,
+    "name": "Espremedor de Alho",
+    "price": 29.99,
+    "description": "Praticidade e higiene no preparo das nossas receitas favoritas.",
+    "storeLink": "https://www.magazinevoce.com.br/magazineescorrega/espremedor-de-alho-tambor-removivel-aco-inox-triturado-minymix/p/gb6a1h5391/ud/esal/?seller_id=minymix1&srsltid=AfmBOorNIHvPnfpoS1aWriLIDDuRZ-Jz1ZUVxN56G5EvbxDwmF2ROEehKu8",
+    "image": "https://a-static.mlcdn.com.br/1500x1500/espremedor-de-alho-tambor-removivel-aco-inox-triturado-minymix/minymix1/mx0157/ad3d429273d6b65de16504f27202a5f0.jpeg",
+    "isSoldOut": false
+  },
+  {
+    "id": 10,
+    "name": "Espremedor de limão",
+    "price": 49.79,
+    "description": "Utensílios duráveis e práticos para facilitar nossas aventuras na cozinha.",
+    "storeLink": "https://www.magazinevoce.com.br/magazineescorrega/espremedor-de-limao-suco-manual-aco-inox-macico-ideal-para-limonada-caipirinha-batidas-receitas-drink-ke-home/p/jea3kh4j24/ud/espr/",
+    "image": "https://a-static.mlcdn.com.br/186x140/espremedor-de-limao-suco-manual-aco-inox-macico-ideal-para-limonada-caipirinha-batidas-receitas-drink-ke-home/wa-store/espremedor-de-fruta/19ae22aad62b208d45deaf3a3c1fea5e.jpeg",
+    "isSoldOut": false
+  },
+  {
+    "id": 11,
+    "name": "Travessa Assadeira Refratárias 25cm",
+    "price": 57.9,
+    "description": "Travessa e Assadeira Refratárias Porcelana Branca com Alça 25cm",
+    "storeLink": "https://shopee.com.br/product/401927316/23293596903?d_id=4995f&uls_trackid=54i6qt3n01kq&utm_content=u7RgrUCKE228ApL8pkLqgEw7PWf",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m55un4j4r5wyba",
+    "isSoldOut": false
+  },
+  {
+    "id": 12,
+    "name": "Kit Facas Inox",
+    "price": 157.74,
+    "description": "Conjunto de facas em inox para o preparo diário das refeições.",
+    "storeLink": "https://shopee.com.br/product/304278646/22892817609?d_id=4995f&uls_trackid=54i6rviq00lo&utm_content=u7RgrUBHePxm9mnMMJqAom1m8Ru",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2h11k6n4iupdc",
+    "isSoldOut": false
+  },
+  {
+    "id": 13,
+    "name": "Tábua de Corte Aço Inoxidável",
+    "price": 37.99,
+    "description": "Tábua resistente, higiênica e fácil de limpar.",
+    "storeLink": "https://shopee.com.br/product/1398934533/27968827694?d_id=4995f&uls_trackid=54i6s66301l5&utm_content=u7RgrUBHeJopmncg7r4ttdFvDG3",
+    "image": "https://ae-pic-a1.aliexpress-media.com/kf/Sccbd707408e44a7f9d174b7dc8eccb5fp.jpg_220x220q75.jpg_.avif",
+    "isSoldOut": false
+  },
+  {
+    "id": 14,
+    "name": "Kit Banheiro (Lixeira e Escovão) PRETO",
+    "price": 79.9,
+    "description": "Kit funcional para manter o banheiro organizado.",
+    "storeLink": "https://shopee.com.br/product/511410160/23498052271?d_id=4995f&uls_trackid=54i6so7b00ll&utm_content=u7RgrUBHeWYzCoKRNWHKoJ5X7mZ",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5snu1f5m2eqeb",
+    "isSoldOut": false
+  },
+  {
+    "id": 15,
+    "name": "Kit medidores 9 peças",
+    "price": 25.9,
+    "description": "Kit completo para medições precisas na cozinha.",
+    "storeLink": "https://shopee.com.br/product/319978539/11089207854?d_id=4995f&uls_trackid=54i6tbuu02l5&utm_content=u7RgrUBHecYEXd5FRuB4N7TjCpX",
+    "image": "https://down-br.img.susercontent.com/file/44e576e65ba77aaf7eb8393bfc1718d7",
+    "isSoldOut": false
+  },
+  {
+    "id": 16,
+    "name": "Kit Escorredores",
+    "price": 68.9,
+    "description": "Kit 2 Telado 21cm.",
+    "storeLink": "https://shopee.com.br/Kit-Escorredores-e-Utens%C3%ADlios-de-Cozinha-em-A%C3%A7o-Inoxid%C3%A1vel-%E2%80%93-Resistente-Dur%C3%A1vel-e-Funcional-i.660421260.18997870495?extraParams=%7B%22display_model_id%22%3A159549578660%2C%22model_selection_logic%22%3A3%7D&sp_atk=63f0de7c-d5ec-4f46-8c15-fc35d3af98ca&xptdk=63f0de7c-d5ec-4f46-8c15-fc35d3af98ca",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0ehe4i2bwrk60",
+    "isSoldOut": false
+  },
+  {
+    "id": 17,
+    "name": "Kit 4x Peneira Inox",
+    "price": 31.99,
+    "description": "KIT 4x - 8cm/10cm/12cm/16cm",
+    "storeLink": "https://shopee.com.br/Kit-4x-Peneira-Inox-8-10-12-16cm-para-Cozinha-Drinks-Confeitaria-Polvilhar-Peneirar-A%C3%A7%C3%BAcar-Farinha-i.371336179.19999592348?extraParams=%7B%22display_model_id%22%3A109722359067%2C%22model_selection_logic%22%3A3%7D&sp_atk=0ea2887f-62d9-475f-9df7-3ad634006347&xptdk=0ea2887f-62d9-475f-9df7-3ad634006347",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rbmj-m5fvihbwftzrc2@resize_w900_nl.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 18,
+    "name": "Saleiro Porcelana Preto",
+    "price": 89.9,
+    "description": "Design moderno para a mesa e cozinha.",
+    "storeLink": "https://shopee.com.br/product/411617617/23997695245?d_id=4995f&uls_trackid=54i6vpna00kq&utm_content=u7RgrUBHeHDTPncX4FPXCJqY3oM",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mi64nboi6uwx29@resize_w900_nl.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 19,
+    "name": "Descascador de Legumes e Ralador",
+    "price": 35.24,
+    "description": "Praticidade no preparo diário dos alimentos.",
+    "storeLink": "https://shopee.com.br/Kit-4-Utens%C3%ADlios-para-Cozinha-Inox-Triturador-de-Alho-Descascador-Legumes-Amassador-Batata-Ralador-i.340707084.21299593949?extraParams=%7B%22display_model_id%22%3A219170914380%2C%22model_selection_logic%22%3A3%7D&sp_atk=4693f622-7640-4edc-ab79-ef44f3e5e346&xptdk=4693f622-7640-4edc-ab79-ef44f3e5e346",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mb7eem4cwd5b80_tn",
+    "isSoldOut": false
+  },
+  {
+    "id": 20,
+    "name": "Kit Multiuso de Limpeza",
+    "price": 99.9,
+    "description": "Itens essenciais para manter a casa sempre limpa.",
+    "storeLink": "https://shopee.com.br/Kit-Acess%C3%B3rios-de-Limpeza-3-Pe%C3%A7as-Organizador-Lavanderia-Flow-Ou-i.349137150.22098928057?extraParams=%7B%22display_model_id%22%3A229428475188%2C%22model_selection_logic%22%3A3%7D",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-824ij-mepse10cnrpg64",
+    "isSoldOut": false
+  },
+  {
+    "id": 21,
+    "name": "Conjunto de Assadeiras/Formas Aço Preto",
+    "price": 129.9,
+    "description": "Assadeiras resistentes para diversas receitas.",
+    "storeLink": "https://www.mercadolivre.com.br/jogo-3-formas-assadeiras-bolo-retangular-atoxico-antiaderent-cor-preto/p/MLB27397032?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&pdp_filters=item_id%3AMLB3830306921&from=gshop",
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_674256-MLA96097768073_102025-F.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 22,
+    "name": "Potes Herméticos de Vidro com Tampa",
+    "price": 110.99,
+    "description": "Conservação ideal de alimentos com vedação segura.",
+    "storeLink": "https://www.mercadolivre.com.br/kit-conjunto-5-potes-geladeira-vidro-hermetico-marmita-tampa-cor-branco/p/MLB37686076?pdp_filters=item_id%3AMLB3750752739#origin=share&sid=share&wid=MLB3750752739&action=copy",
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_831311-MLA99998010383_112025-F.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 23,
+    "name": "Jarra de Suco Vidro 1L ou 2L",
+    "price": 79.99,
+    "description": "Perfeita para servir sucos e água com elegância.",
+    "storeLink": "https://s.shopee.com.br/40ZBysP7YT",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rd58-lw4k0967o5ht55@resize_w900_nl.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 24,
+    "name": "Abridor de Garrafa e Abridor de Vinho",
+    "price": 59.99,
+    "description": "Kit essencial para bebidas e vinhos.",
+    "storeLink": "https://www.havan.com.br/kit-para-vinho-finecasa-garrafa-3-pecas-inox/p",
+    "image": "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/_/4/_483405.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 25,
+    "name": "Garrafa Térmica para Café",
+    "price": 89.9,
+    "description": "Mantém o café quente por mais tempo.",
+    "storeLink": "https://www.mercadolivre.com.br/garrafa-termica-termolar-lumina-bomba-de-presso-1l/p/MLB9989931?pdp_filters=item_id%3AMLB3945237597&from=gshop&matt_tool=44747869&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22603531439&matt_ad_group_id=183641039649&matt_match_type=&matt_network=g&matt_device=c&matt_creative=758138322197&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735128761&matt_product_id=MLB9989931-product&matt_product_partition_id=2424646252682&matt_target_id=pla-2424646252682&cq_src=google_ads&cq_cmp=22603531439&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=4&gad_campaignid=22603531439&gbraid=0AAAAAD93qcCApFMtQAwz6z-RKBQ5NNJvS&gclid=Cj0KCQiA6sjKBhCSARIsAJvYcpMQhbKXDCEwySPAFIdf1x07XCO4xHniXJBu6t2yjzPCCI39OFXNuTQaAqy_EALw_wcB",
+    "image": "https://http2.mlstatic.com/D_Q_NP_735870-MLU74135797068_012024-B.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 27,
+    "name": "Panos de chão",
+    "price": 68.3,
+    "description": "Panos de chão cinza claro, resistentes e ideais para limpeza.",
+    "storeLink": "https://shopee.com.br/product/1155896698/23893686422?d_id=4995f&uls_trackid=54i776jp00ku&utm_content=u7RgrUCKKmwN7TzYYPXf4Vdaz2T",
+    "image": "https://ae-pic-a1.aliexpress-media.com/kf/S6dec245f807e4cb89bfa034493d059576.jpg_960x960q75.jpg_.avif",
+    "isSoldOut": false
+  },
+  {
+    "id": 29,
+    "name": "Kit Bacia e Balde",
+    "price": 114.9,
+    "description": "Conjunto prático de bacia e balde para a lavanderia.",
+    "storeLink": "https://shopee.com.br/product/468729652/22998405833?d_id=4995f&uls_trackid=54i7633500ll&utm_content=u7RgrUBK6h5VWKboNeoVwYbwQZM",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7rfgb-m9kgzfnpurhec2@resize_w900_nl.webp",
+    "isSoldOut": false
+  },
+  {
+    "id": 30,
+    "name": "Bowls / Tigelas de Cerâmica",
+    "price": 56,
+    "description": "Bowls versáteis para cereais, sopas ou petiscos.",
+    "storeLink": "https://shopee.com.br/product/810108876/16380692273?d_id=4995f&uls_trackid=54i768dj02ll&utm_content=u7RgrUBK7RJn9CFiUU8TYFraBDh",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-me5yx5dlkydc8b",
+    "isSoldOut": false
+  },
+  {
+    "id": 31,
+    "name": "Liquidificador",
+    "price": 119,
+    "description": "Liquidificador Philco PH900 Preto 1200W com 12 velocidades.",
+    "storeLink": "https://www.casasbahia.com.br/liquidificador-philco-ph900-preto-1200w-com-12-velocidades/p/5082530?utm_medium=cpc&utm_source=GP_PLA&IdSku=5082530&idLojista=10037&tipoLojista=1P&gclsrc=aw.ds&&utm_campaign=cb_b2c_gg_shopping_core_elpo_liquidificador&gad_source=4&gad_campaignid=22439388159&gbraid=0AAAAADtAamiL_uqrbDv2bbu2HrXq-Y3eu&gclid=Cj0KCQiA6sjKBhCSARIsAJvYcpOwNRhT5xuFBtuFfWYXkJDrwVw4ebwCRtp2gwME2hYT1FqD9M5AUWoaAnYQEALw_wcB",
+    "image": "https://imgs.casasbahia.com.br/5082530/1xg.jpg?imwidth=1000",
+    "isSoldOut": false
+  },
+  {
+    "id": 32,
+    "name": "Kit 5 Caixas Organizadoras",
+    "price": 79.9,
+    "description": "Caixas organizadoras para manter tudo em seu devido lugar.",
+    "storeLink": "https://shopee.com.br/product/406061234/22029856510?d_id=4995f&uls_trackid=54i72s0h00ll&utm_content=u7RgrUBK6mQjsjD8E5zd5f275tb",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mhkwnbya4xdyf5",
+    "isSoldOut": false
+  },
+  {
+    "id": 33,
+    "name": "Panela Elétrica de Arroz",
+    "price": 139,
+    "description": "Panela elétrica de arroz Britânia PA5 Prime 5 xícaras.",
+    "storeLink": "https://www.casasbahia.com.br/panela-eletrica-de-arroz-britania-pa5-prime-5-xicaras-preta/p/2372401?utm_medium=cpc&utm_source=GP_PLA&IdSku=2372401&idLojista=10037&tipoLojista=1P&gclsrc=aw.ds&&utm_campaign=cb_b2c_gg_shopping_core_elpo_geral&gad_source=1&gad_campaignid=22439146548&gbraid=0AAAAADtAamjolR2MT7XjqsDHGrwltMM9d&gclid=EAIaIQobChMInbzxrsLWkQMV0lRIAB3jLTcxEAQYAyABEgKkgvD_BwE",
+    "image": "https://imgs.casasbahia.com.br/2372401/1xg.jpg?imwidth=1000",
+    "isSoldOut": false
+  },
+  {
+    "id": 34,
+    "name": "Jarra Medidora De Vidro 500ml",
+    "price": 24.9,
+    "description": "Precisão e resistência com jarra de vidro medidora.",
+    "storeLink": "https://shopee.com.br/product/448649947/23993264258?d_id=4995f&uls_trackid=54i6t31j00lo&utm_content=u7RgrUBHeZxUVprBGWNit59bA6B",
+    "image": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mbp64giywgbrf9",
+    "isSoldOut": false
+  },
+  {
+    "id": 35,
+    "name": "Jogo de Canecas 260/280ml",
+    "price": 79.9,
+    "description": "Conjunto de canecas para o café da manhã ou chá da tarde.",
+    "storeLink": "https://shopee.com.br/product/389126594/23693657132?d_id=4995f&uls_trackid=54i722v600ol&utm_content=u7RgrUC7s7T2Zzr8DuZ23L4i2iT",
+    "image": "https://down-br.img.susercontent.com/file/sg-11134201-7ra3h-m5927lkzs9kbf2",
+    "isSoldOut": false
+  },
+  {
+    "name": "Fritadeira Air Fryer",
+    "price": 234.73,
+    "description": "..",
+    "storeLink": "https://www.mercadolivre.com.br/p/MLB51032488?pdp_filters=item_id:MLB5457116760&attributes=COLOR:Preto_vpp,VOLTAGE:127V_vpp#origin=share&sid=share&wid=MLB5457116760&action=copy",
+    "image": "https://http2.mlstatic.com/D_Q_NP_726045-MLA85451254372_062025-F.webp",
+    "isSoldOut": false,
+    "id": 36
+  },
+  {
+    "name": "Cafeteira Elétrica",
+    "price": 213.81,
+    "description": "Cafeteira Elétrica Electrolux - Preta",
+    "storeLink": "https://a.co/d/gptoMYV",
+    "image": "..",
+    "isSoldOut": false,
+    "id": 37
+  },
+  {
+    "name": "Jogo De Toalhas",
+    "price": 179.9,
+    "description": "Jogo De Toalhas Buddemeyer Brisa Banho 4 Peças Grafite/grafite",
+    "storeLink": "https://www.mercadolivre.com.br/up/MLBU3678970572?pdp_filters=item_id:MLB6047841502&attributes=COLOR:Grafite_Grafite_vpp#origin=share&sid=share&wid=MLB6047841502&action=copy",
+    "image": "..",
+    "isSoldOut": false,
+    "id": 38
+  },
+  {
+    "name": "Organizador Porta Talheres ",
+    "price": 79.9,
+    "description": ".",
+    "storeLink": "https://br.shp.ee/karfhtF",
+    "image": ".",
+    "isSoldOut": false,
+    "id": 39
+  },
+  {
+    "name": "Kit Cozinha 3 peças Pegadores",
+    "price": 24.5,
+    "description": ".",
+    "storeLink": "https://br.shp.ee/MBvBBBZ",
+    "image": "..",
+    "isSoldOut": false,
+    "id": 40
+  },
+  {
+    "name": "Tapete de Cozinha ",
+    "price": 72.9,
+    "description": "Kit passadeiras - Cor Marrocos PRETO",
+    "storeLink": "https://br.shp.ee/zjviK3V",
+    "image": ".",
+    "isSoldOut": false,
+    "id": 41
+  }
+]

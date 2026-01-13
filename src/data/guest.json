@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Guilherme Mantovani",
+    "confirmed": false
+  },
+  {
+    "id": 2,
+    "name": "Isabela Rocha",
+    "confirmed": false
+  },
+  {
+    "id": 3,
+    "name": "Maria Silva",
+    "confirmed": false
+  },
+  {
+    "id": 4,
+    "name": "Teste Final",
+    "confirmed": true,
+    "guestCount": 1,
+    "message": "Agora sim tudo certo!",
+    "date": "2026-01-05T21:18:32.366Z"
+  },
+  {
+    "id": 5,
+    "name": "Isadora Marczuk",
+    "confirmed": true,
+    "guestCount": 2,
+    "companionNames": [
+      "Guilherme",
+      "Gabriela"
+    ],
+    "message": "aaa",
+    "date": "2026-01-05T21:21:16.876Z"
+  },
+  {
+    "id": 6,
+    "name": "Teste Acompanhantes",
+    "confirmed": true,
+    "guestCount": 2,
+    "companionNames": [
+      "Joao Silva",
+      "Maria Oliveira"
+    ],
+    "message": "",
+    "date": "2026-01-05T21:21:37.195Z"
+  },
+  {
+    "id": 7,
+    "name": "John Doe Test",
+    "confirmed": true,
+    "guestCount": 0,
+    "companionNames": [],
+    "message": "",
+    "date": "2026-01-05T21:38:18.260Z"
+  }
+]
