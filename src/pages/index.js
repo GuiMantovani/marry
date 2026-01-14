@@ -9,7 +9,7 @@ import HomeCardContent from "@/components/HomeCardContent";
 const itens = [
   {
     icon: <FaHeart />,
-    title: "oo",
+    title: "Comemorando Nosso Novo Cantinho",
     text: "Depois de 7 anos juntos, resolvemos dar mais um passo: juntar as escovas de dentes e transformar nossos sonhos em realidade! Esse novo começo só faz sentido ao lado de pessoas especiais, e por isso queremos dividir esse momento com cada um de vocês, que fizeram e fazem parte da nossa história.",
     color: "bg-white",
   },
