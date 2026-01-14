@@ -9,7 +9,7 @@ import HomeCardContent from "@/components/HomeCardContent";
 const itens = [
   {
     icon: <FaHeart />,
-    title: "Comemorando Nosso Novo Cantinho",
+    title: "oo",
     text: "Depois de 7 anos juntos, resolvemos dar mais um passo: juntar as escovas de dentes e transformar nossos sonhos em realidade! Esse novo começo só faz sentido ao lado de pessoas especiais, e por isso queremos dividir esse momento com cada um de vocês, que fizeram e fazem parte da nossa história.",
     color: "bg-white",
   },
@@ -51,7 +51,7 @@ export default function Index() {
         <div className="md:w-1/2 pt-15 md:pt-5 flex justify-center items-center">
           <Hero />
         </div>
-        <div className="md:w-1/2">
+        <div className="md:w-1/2 ">
           <Card>
             {itens.map((item, index) => (
               <div
