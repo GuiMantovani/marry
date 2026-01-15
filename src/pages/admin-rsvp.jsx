@@ -105,7 +105,7 @@ export default function AdminRSVP() {
                                                     </div>
                                                 </td>
 
-                                                <div className="pgi-4 text-sm  truncate italic text-black/50" title={guest.message}>
+                                                <div className="p-4 text-sm  truncate italic text-black/50" title={guest.message}>
                                                     <text className="text-wrap">{guest.message}</text>
                                                 </div>
 
