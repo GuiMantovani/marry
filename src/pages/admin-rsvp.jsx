@@ -73,44 +73,43 @@ export default function AdminRSVP() {
                             <table className="w-full text-left border-collapse">
                                 <thead>
                                     <tr className="bg-black/[0.02] border-b border-black/5">
-                                        <th className="p-4 text-[10px] uppercase tracking-widest font-bold opacity-40">Nome</th>
-                                        <th className="p-4 text-[10px] uppercase tracking-widest font-bold opacity-40">Presença</th>
-                                        <th className="p-4 text-[10px] uppercase tracking-widest font-bold opacity-40">Acompanhantes</th>
-                                        <th className="p-4 text-[10px] uppercase tracking-widest font-bold opacity-40">Mensagem</th>
-                                        <th className="p-4 text-[10px] uppercase tracking-widest font-bold opacity-40 text-right">Data</th>
+                                        <th className="p-4 text-[10px] uppercase tracking-widest font-bold opacity-40">Confirmaçôes</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     {filteredGuests.length > 0 ? (
                                         filteredGuests.map((guest) => (
-                                            <tr key={guest.id} className="border-b border-black/5 last:border-0 hover:bg-black/[0.01] transition-colors">
-                                                <td className="p-4 py-6">
-                                                    <div className="flex flex-col">
-                                                        <span className="font-medium text-sm">{guest.name}</span>
-                                                        {guest.companionNames && guest.companionNames.length > 0 && (
-                                                            <div className="flex flex-wrap gap-1 mt-1">
-                                                                {guest.companionNames.map((cName, idx) => (
-                                                                    <span key={idx} className="text-[9px] px-1.5 py-0.5 bg-black/5 rounded text-black/50">
-                                                                        {cName}
-                                                                    </span>
-                                                                ))}
+                                            <div key={guest.id} className="flex flex-col border-b border-black/5 last:border-0 hover:bg-black/[0.01] transition-colors">
+                                                <td className="px-4 py-4">
+                                                    <div className="flex flex-col   ">
+                                                        <div className="flex items-center gap-2">
+                                                            <span className="font-medium text-sm">{guest.name}</span>
+                                                            <div className="px-2">
+                                                                <span className={`text-[10px] px-2 py-1 rounded-full font-bold uppercase tracking-tighter ${guest.confirmed ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}`}>
+                                                                    {guest.confirmed ? 'Confirmado' : 'Ausente'}
+                                                                </span>
                                                             </div>
-                                                        )}
+                                                        </div>
+
+                                                        <div className="flex items-center gap-2">
+                                                            <td className="text-sm tabular-nums text-black/60">{guest.guestCount || 0}</td>
+                                                            {guest.companionNames && guest.companionNames.length > 0 && (
+                                                                <div className="flex gap-1 mt-1">
+                                                                    {guest.companionNames.map((cName, idx) => (
+                                                                        <span key={idx} className="text-[9px] px-1.5 py-0.5 bg-black/5 rounded text-black/50">
+                                                                            {cName}
+                                                                        </span>
+                                                                    ))}
+                                                                </div>
+                                                            )}</div>
                                                     </div>
                                                 </td>
-                                                <td className="p-4">
-                                                    <span className={`text-[10px] px-2 py-1 rounded-full font-bold uppercase tracking-tighter ${guest.confirmed ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}`}>
-                                                        {guest.confirmed ? 'Confirmado' : 'Ausente'}
-                                                    </span>
-                                                </td>
-                                                <td className="p-4 text-sm tabular-nums text-black/60">{guest.guestCount || 0}</td>
-                                                <td className="p-4 text-sm max-w-xs truncate italic text-black/50" title={guest.message}>
-                                                    {guest.message || '-'}
-                                                </td>
-                                                <td className="p-4 text-xs text-black/40 text-right tabular-nums">
-                                                    {guest.date ? new Date(guest.date).toLocaleDateString('pt-BR') : '-'}
-                                                </td>
-                                            </tr>
+
+                                                <div className="pgi-4 text-sm  truncate italic text-black/50" title={guest.message}>
+                                                    <text className="text-wrap">{guest.message}</text>
+                                                </div>
+
+                                            </div>
                                         ))
                                     ) : (
                                         <tr>
